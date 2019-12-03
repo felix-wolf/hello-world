@@ -27,3 +27,30 @@ CREATE TABLE person ( id integer PRIMARY KEY, name text, license_id integer, add
 
 6.
 14887	Morty Schapiro	118009	4919	Northwestern Dr	111564949
+
+7.
+Interview Transcript Annabel Miller:
+I saw the murder happen, and I recognized the killer from my gym when I was working out last week on January the 9th.
+
+8. Interview transcript Morty Schapiro:
+I heard a gunshot and then saw a man run out. He had a "Get Fit Now Gym" bag. The membership number on the bag started with "48Z". Only gold members have those bags. The man got into a car with a plate that included "H42W".
+
+9. Personen mit richtigem Gym-Code
+48Z7A	28819	Joe Germuska	20160305	gold
+48Z55	67318	Jeremy Bowers	20160101	gold
+
+10. Passende Autos
+183779	21	65	blue	blonde	female	H42W0X	Toyota	Prius
+423327	30	70	brown	brown	male	0H42W2	Chevrolet	Spark LS
+664760	21	71	black	black	male	4H42WR	Nissan	Altima
+
+11. Mörder
+67318	Jeremy Bowers	423327	530	Washington Pl, Apt 3A	871539279
+
+12. Mörder interview
+I was hired by a woman with a lot of money. I don't know her name but I know she's around 5'5" (65") or 5'7" (67"). She has red hair and she drives a Tesla Model S. I know that she attended the SQL Symphony Concert 3 times in December 2017.
+
+13. Mögliche Hintermänner
+78881	Red Korb	918773	107	Camerata Dr	961388910	918773	48	65	black	red	female	917UU3	Tesla	Model S
+90700	Regina George	291182	332	Maple Ave	337169072	291182	65	66	blue	red	female	08CM64	Tesla	Model S
+99716	Miranda Priestly	202298	1883	Golden Ave	987756388	202298	68	66	green	red	female	500123	Tesla	Model S
