@@ -1,0 +1,29 @@
+murder mysteries clues
+
+http://mystery.knightlab.com/#experienced
+
+1.
+CREATE TABLE crime_scene_report ( date integer, type text, description text, city text )
+
+2.
+Security footage shows that there were 2 witnesses. The first witness lives at the last house on "Northwestern Dr". The second witness, named Annabel, lives somewhere on "Franklin Ave".
+
+3. 
+crime_scene_report
+drivers_license
+person
+facebook_event_checkin
+interview
+get_fit_now_member
+get_fit_now_check_in
+income
+solution
+
+4.
+CREATE TABLE person ( id integer PRIMARY KEY, name text, license_id integer, address_number integer, address_street_name text, ssn integer, FOREIGN KEY (license_id) REFERENCES drivers_license(id) 
+
+5.
+16371	Annabel Miller	490173	103	Franklin Ave	318771143
+
+6.
+14887	Morty Schapiro	118009	4919	Northwestern Dr	111564949
